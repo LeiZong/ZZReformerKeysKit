@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZZReformerKeysKit_Example' do
+  pod 'ZZReformerKeysKit', :path => '../'
+
+  target 'ZZReformerKeysKit_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
