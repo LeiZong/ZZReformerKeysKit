@@ -1,0 +1,6 @@
+framework module Pods_ZZReformerKeysKit_Tests {
+  umbrella header "Pods-ZZReformerKeysKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

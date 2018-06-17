@@ -6,6 +6,5 @@ target 'ZZReformerKeysKit_Example' do
   target 'ZZReformerKeysKit_Tests' do
     inherit! :search_paths
 
-    pod 'FBSnapshotTestCase'
   end
 end

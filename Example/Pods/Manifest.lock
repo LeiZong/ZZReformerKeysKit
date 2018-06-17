@@ -1,0 +1,16 @@
+PODS:
+  - ZZReformerKeysKit (0.1.0)
+
+DEPENDENCIES:
+  - ZZReformerKeysKit (from `../`)
+
+EXTERNAL SOURCES:
+  ZZReformerKeysKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZZReformerKeysKit: 29b28888c152644829f60929982ffdd6a3467d73
+
+PODFILE CHECKSUM: 649ce89c2e987748399673d300805addf2caffb0
+
+COCOAPODS: 1.5.3

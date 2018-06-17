@@ -1,0 +1,22 @@
+{
+  "name": "ZZReformerKeysKit",
+  "version": "0.1.0",
+  "summary": "A short description of ZZReformerKeysKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/LeiZong/ZZReformerKeysKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "LeiZong": "leasingzong@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/LeiZong/ZZReformerKeysKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZZReformerKeysKit/Classes/**/*"
+}
